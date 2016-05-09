@@ -1,0 +1,240 @@
+/* WEBBA Booking frontend default style */
+
+.wbk-input {	 
+    padding: 5px !important;
+    background: #fff !important;
+    color: #000 !important;
+    border: 1px solid #CACACA !important;
+    height: 44px;
+    border-radius: 5px !important;
+    width: 100%;
+    outline: none; 
+}
+.wbk-text,.wbk-select{
+    padding: 5px !important;
+    background: #fff !important;
+    color: #000 !important;
+    border: 1px solid #CACACA !important;
+    height: 44px;
+    border-radius: 5px !important;
+    width: 100%;  
+}
+.wbk-textarea{
+    padding: 5px !important;
+    background: #fff !important;
+    color: #000 !important;
+    border: 1px solid #CACACA !important;
+    height: 200px;
+    border-radius: 5px !important;
+    width: 100%;
+}
+.wbk-checkbox-field span{
+    display: block;
+    width: 100%;
+}
+.wbk-checkbox-field span span{
+    display: inline;
+    width: auto;
+}
+.wbk-text-area {     
+    padding: 5px !important;
+    background: #fff !important;
+    color: #000 !important;
+    border: 1px solid #A9A9A9  !important;
+}
+
+.wbk-input-error {
+    border-left: 3px solid #ff0000 !important;  
+}
+
+.wbk-input:disabled {	 
+  	color: #E6E3E3  !important;
+	border: 1px solid #E6E3E3 !important;
+ }
+
+
+.wbk-width-100 {
+	width: 100% !important;
+}
+
+.wbk-width-20-50-100  {
+	width: 20%;
+    float: left;
+    display: block;
+    padding: 1px;
+} 
+
+@media (max-width: 1024px) {
+   .wbk-width-20-50-100 {
+   		width: 50%;
+   }
+}
+
+
+@media (max-width: 768px) {
+   .wbk-width-20-50-100 {
+   		width: 100%;
+   }
+}
+
+.wbk-row {
+	margin: 25px 0 25px 0;
+	width: 100%;
+	float: left;
+}
+
+.wbk-more-container{
+	width: 100%;
+	float: left;
+
+}
+
+.wbk-row-padding-5 {
+	margin: 5px 0 5px 0;
+	width: 100%;
+	float: left;
+}
+
+.wbk-input-label {
+	color: #333	;
+	font-size: 16px;
+    width: 100%;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.wbk-loading {
+	width: 107px;
+	height: 16px;
+	float: left;
+	display: block;
+	background-image: url(../images/loading.gif);
+	margin: 5px 0 30px 0;
+	clear: both;
+}	
+
+.wbk-step-marker {
+	color: #888484;
+}
+#wbk-search_time_btn{
+    margin-top: 10px !important;
+ 
+}
+input.wbk-checkbox {
+    display:none;
+}
+
+input.wbk-checkbox + label span.label_image {
+    display: inline-block;
+    width: 44px;
+    height: 44px;
+    margin: 1px 7px 0 0;
+    vertical-align: middle;
+    cursor: pointer;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid #CACACA !important;
+    background: url(../images/checkbox2.png) -44px top no-repeat;
+}
+
+
+input.wbk-checkbox:checked  + label span.label_image {
+	background: url(../images/checkbox2.png)  left top no-repeat;
+}
+
+.wbk-time_table{
+	border: none;
+	width: 100%;
+	margin: 0;
+}
+
+.wbk-time_table tr td{
+    border: none;
+    padding: 0 0 5px 0;
+    display: table-cell;
+    vertical-align: top;
+} 
+
+
+.wbk-day-title{
+    width:20%;
+    display: block;
+    float:left;
+}
+.wbk-day-slots{
+    width:80%;
+    display: block;
+    float:left;
+}   
+.wbk-time-slot{
+    -webkit-appearance: button;
+    padding: 0px !important;
+}
+
+.wbk-service_icon {
+	padding: 5px 0 0 40px;
+    min-height: 30px;
+    margin: 0 0 3px 0;
+    display: block;
+    background: url(../images/service.png) left top no-repeat;
+}
+
+.wbk-clock_icon {
+	padding: 5px 0 0 40px;
+    min-height: 32px;
+    margin: 0 0 3px 0;
+    display: block;   
+	background: url(../images/clock.png)  left top no-repeat;	
+}
+
+.wbk-calendar_icon {
+	padding: 5px 0 0 40px;
+    min-height: 32px;
+    margin: 0 0 3px 0;
+    display: block;   
+    background: url(../images/calendar.png)  left top no-repeat;	
+}
+
+.wbk-form_icon {
+    padding: 5px 0 0 40px;
+    min-height: 32px;
+    margin: 0 0 3px 0;
+    display: block;   
+    background: url(../images/form.png)  left top no-repeat;    
+}
+ 
+.wbk-mt-10-mb-10 {
+    margin: 10px 0 10px 0 !important;
+}
+
+.wbk-mb-10 {
+    margin: 0 0 10px 0 !important;
+}
+
+@media (max-width: 768px) {
+	.wbk-label_text {
+		clear: both;
+	    display: block;
+	}
+}
+.wbk-button{
+          min-height: 44px;
+          -webkit-appearance: button;
+          background-color: #186762;
+          color: #fff;
+          cursor: pointer;
+          border:none;
+          border-radius:5px;
+}
+
+#wbk-booking-form-container label{
+        clear:both;
+        display:block;
+        text-align
+}
+.wbk-available-count{
+    display: block;
+    width: 100% !important;
+    margin: 2px 0 5px 0;
+    text-align: center;
+}

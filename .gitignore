@@ -1,0 +1,10 @@
+/var/www/html/wordpress/wp-content/debug.log
+/var/www/html/wordpress/wp-snapshots/
+/var/www/html/wordpress/wp-config.php
+/var/www/html/wordpress/wp-content/themes/twenty*
+/var/www/html/wordpress/wp-content/themes/*.zip
+/var/www/html/wordpress/wp-content/themes/flat-theme/
+/var/www/html/wordpress/wp-content/themes/wplms_white/
+/var/www/html/wordpress/wp-content/themes/storefront/
+/var/www/html/wordpress/wp-content/uploads/
+/var/www/html/wordpress/wp-content/themes/__MACOSX/

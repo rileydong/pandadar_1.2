@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = rileydong
+	email = dongxiaoxi@yahoo.com
+[revisr]
+	automatic-backups = daily
+	notifications = off
+	uninstall-on-delete = off
+	token = 7PD5T4v0UxPDJjNn
+	current-remote = origin
+[remote "origin"]
+	url = git@github.com:rileydong/pandadar_wplms.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[http]
+	postBuffer = 524288000

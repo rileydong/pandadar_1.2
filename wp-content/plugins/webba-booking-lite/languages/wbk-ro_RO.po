@@ -1,0 +1,875 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wbk\n"
+"POT-Creation-Date: 2016-03-19 20:49+0200\n"
+"PO-Revision-Date: 2016-03-19 20:50+0200\n"
+"Last-Translator: Webba Agency <support@webba-booking.com>\n"
+"Language-Team: Webba Agency <support@webba-booking.com>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: backend/classes\n"
+
+#: backend/class_wbk_backend.php:55
+#: backend/classes/class_wbk_backend_services.php:32
+msgid "Cancel"
+msgstr "Anuleaza"
+
+#: backend/class_wbk_backend.php:56
+#: backend/classes/class_wbk_backend_schedule.php:43
+msgid "Add"
+msgstr "Adauga"
+
+#: backend/class_wbk_backend.php:57
+msgid "Add Webba Booking form"
+msgstr "Adauga programare Webba"
+
+#: backend/class_wbk_backend.php:92
+msgid "All services"
+msgstr "Toate serviciile"
+
+#: backend/class_wbk_backend.php:109
+msgid "Select service"
+msgstr "Selecteaza un serviciu"
+
+#: backend/class_wbk_backend.php:118
+msgid "Webba Booking form"
+msgstr "Webba Programari"
+
+#: backend/classes/class_wbk_backend_options.php:72
+msgid "General"
+msgstr "General"
+
+#: backend/classes/class_wbk_backend_options.php:80
+msgid "Week starts on"
+msgstr "Saptamana incepe cu"
+
+#: backend/classes/class_wbk_backend_options.php:95
+msgid "Date format"
+msgstr "Format data"
+
+#: backend/classes/class_wbk_backend_options.php:109
+msgid "Time format"
+msgstr "Format timp"
+
+#: backend/classes/class_wbk_backend_options.php:123
+msgid "Timezone"
+msgstr "Fus orar"
+
+#: backend/classes/class_wbk_backend_options.php:137
+msgid "Phone number mask input"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:152
+msgid "Phone format"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:167
+#: backend/classes/class_wbk_backend_options.php:175
+msgid "Holidays"
+msgstr "Sarbatori"
+
+#: backend/classes/class_wbk_backend_options.php:189
+msgid "Email notifications"
+msgstr "Notificari email"
+
+#: backend/classes/class_wbk_backend_options.php:195
+msgid "Send customer an email"
+msgstr "Trimite email clientului"
+
+#: backend/classes/class_wbk_backend_options.php:208
+msgid "Subject of an email to a customer"
+msgstr "Subiectul pentru email"
+
+#: backend/classes/class_wbk_backend_options.php:221
+msgid "Message to a customer"
+msgstr "Mesaj catre client"
+
+#: backend/classes/class_wbk_backend_options.php:235
+msgid "Send administrator an email"
+msgstr "Trimite email administratorului"
+
+#: backend/classes/class_wbk_backend_options.php:248
+msgid "Subject of an email to an administrator"
+msgstr "Subiectul pentru email"
+
+#: backend/classes/class_wbk_backend_options.php:261
+msgid "Message to an administrator"
+msgstr "Mesaj catre administrator"
+
+#: backend/classes/class_wbk_backend_options.php:275
+msgid "From: name"
+msgstr "De la: nume"
+
+#: backend/classes/class_wbk_backend_options.php:289
+msgid "From: email"
+msgstr "De la: email"
+
+#: backend/classes/class_wbk_backend_options.php:303
+msgid "Appearance"
+msgstr "Aspect"
+
+#: backend/classes/class_wbk_backend_options.php:310
+msgid "Mode"
+msgstr "Mod"
+
+#: backend/classes/class_wbk_backend_options.php:323
+msgid "Select service label"
+msgstr "Adauga eticheta serviciului"
+
+#: backend/classes/class_wbk_backend_options.php:336
+msgid "Select date label (extended mode)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:349
+msgid "Select date label (basic mode)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:362
+msgid "Select hours label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:375
+msgid "Select time slots label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:388
+msgid "Booking form label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:401
+msgid "Booking items count label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:415
+msgid "Activation"
+msgstr "Activare"
+
+#: backend/classes/class_wbk_backend_options.php:422
+msgid "Purchase Code"
+msgstr "Cod activare"
+
+#: backend/classes/class_wbk_backend_options.php:480
+#: backend/classes/class_wbk_backend_services.php:169
+#: backend/classes/class_wbk_backend_services.php:282
+#: common/class_wbk_business_hours.php:421
+#: common/class_wbk_date_time_utils.php:135
+#: common/class_wbk_date_time_utils.php:248
+#: frontend/classes/class_wbk_frontend_booking.php:118
+msgid "Sunday"
+msgstr "Duminica"
+
+#: backend/classes/class_wbk_backend_options.php:481
+#: backend/classes/class_wbk_backend_services.php:150
+#: backend/classes/class_wbk_backend_services.php:263
+#: common/class_wbk_business_hours.php:403
+#: common/class_wbk_business_hours.php:425
+#: common/class_wbk_date_time_utils.php:116
+#: common/class_wbk_date_time_utils.php:229
+#: frontend/classes/class_wbk_frontend_booking.php:119
+msgid "Monday"
+msgstr "Luni"
+
+#: backend/classes/class_wbk_backend_options.php:482
+msgid "Wordpress default"
+msgstr "Wordpress implicit"
+
+#: backend/classes/class_wbk_backend_options.php:492
+msgid "Incorrect start of week"
+msgstr "Zi inceput saptamana incorect"
+
+#: backend/classes/class_wbk_backend_options.php:504
+msgid "Leave empty to use Wordpress Date Format. "
+msgstr "Lasa gol pentru a utiliza formatul datei implicit din Wordpress"
+
+#: backend/classes/class_wbk_backend_options.php:513
+msgid "Date format updated"
+msgstr "Formatul datei actualizat"
+
+#: backend/classes/class_wbk_backend_options.php:528
+msgid "Leave empty to use Wordpress Time Format. "
+msgstr "Lasa gol pentru a utiliza formatul timpului implicit din Wordpress"
+
+#: backend/classes/class_wbk_backend_options.php:537
+msgid "Time format updated"
+msgstr "Formatul timpului actualizat"
+
+#: backend/classes/class_wbk_backend_options.php:551
+msgid "Enabled"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:552
+msgid "Disabled"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:574
+msgid ""
+"a - Represents an alpha character (A-Z,a-z), 9 - Represents a numeric "
+"character (0-9), * - Represents an alphanumeric character (A-Z,a-z,0-9)"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:628
+msgid "Check if you'd like to send customer an email"
+msgstr "Bifeaza daca doresti sa trimiti email catre client"
+
+#: backend/classes/class_wbk_backend_options.php:639
+#: backend/classes/class_wbk_backend_options.php:721
+msgid "Email status updated"
+msgstr "Status email actualizat"
+
+#: backend/classes/class_wbk_backend_options.php:676
+msgid "Customer email subject is wrong"
+msgstr "Subiectul emailului pentru client este gresit"
+
+#: backend/classes/class_wbk_backend_options.php:696
+msgid "Administrator email subject is wrong"
+msgstr "Subiectul emailului pentru administrator este gresit"
+
+#: backend/classes/class_wbk_backend_options.php:710
+msgid "Check if you'd like to send administrator an email"
+msgstr "Bifeaza daca doresti sa trimiti email catre administrator"
+
+#: backend/classes/class_wbk_backend_options.php:757
+msgid "\"From: email\" is wrong"
+msgstr "\"From: email\" este eronat"
+
+#: backend/classes/class_wbk_backend_options.php:775
+msgid "\"From: name\" is wrong"
+msgstr "\"From: name\" este eronat"
+
+#: backend/classes/class_wbk_backend_options.php:786
+msgid "Extended"
+msgstr "Complex"
+
+#: backend/classes/class_wbk_backend_options.php:787
+msgid "Basic"
+msgstr "Simplu"
+
+#: backend/classes/class_wbk_backend_options.php:803
+msgid "Service frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:818
+#: backend/classes/class_wbk_backend_options.php:832
+msgid "Date frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:846
+msgid "Hours frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:860
+msgid "Time slots frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:874
+msgid "Booking form frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_options.php:888
+msgid "Booking items count frontend label"
+msgstr ""
+
+#: backend/classes/class_wbk_backend_schedule.php:42
+msgid "Add appointment"
+msgstr "Adauga intalnire"
+
+#: backend/classes/class_wbk_backend_schedule.php:44
+#: frontend/classes/class_wbk_frontend_booking.php:136
+msgid "Close"
+msgstr "Inchide"
+
+#: backend/classes/class_wbk_backend_schedule.php:45
+msgid "Appointment"
+msgstr "Intalnire"
+
+#: backend/classes/class_wbk_backend_schedule.php:46
+#: backend/classes/class_wbk_backend_services.php:33
+msgid "Delete"
+msgstr "Sterge"
+
+#: backend/classes/class_wbk_backend_schedule.php:47
+msgid "Show next week"
+msgstr "Arata saptamana viitoare"
+
+#: backend/classes/class_wbk_backend_schedule.php:117
+#: backend/classes/class_wbk_backend_schedule.php:189
+msgid "open"
+msgstr "deschide"
+
+#: backend/classes/class_wbk_backend_schedule.php:121
+#: backend/classes/class_wbk_backend_schedule.php:231
+msgid "close"
+msgstr "inchide"
+
+#: backend/classes/class_wbk_backend_services.php:34
+#: backend/templates/tpl_wbk_backend_services.php:214
+msgid "Add service"
+msgstr "Adauga serviciu"
+
+#: backend/classes/class_wbk_backend_services.php:35
+#: backend/templates/tpl_wbk_backend_services.php:216
+msgid "Edit service"
+msgstr "Editeaza serviciile"
+
+#: backend/classes/class_wbk_backend_services.php:36
+msgid "Save"
+msgstr "Salveaza"
+
+#: backend/classes/class_wbk_backend_services.php:37
+#: backend/classes/class_wbk_backend_services.php:246
+#: common/class_wbk_date_time_utils.php:212
+msgid "Remove the second gap"
+msgstr "Inlatura intervalul al doilea"
+
+#: backend/classes/class_wbk_backend_services.php:38
+#: backend/classes/class_wbk_backend_services.php:252
+#: common/class_wbk_date_time_utils.php:218
+msgid "Add the second gap"
+msgstr "Adauga intervalul al doilea"
+
+#: backend/classes/class_wbk_backend_services.php:153
+#: backend/classes/class_wbk_backend_services.php:266
+#: common/class_wbk_business_hours.php:406
+#: common/class_wbk_date_time_utils.php:119
+#: common/class_wbk_date_time_utils.php:232
+#: frontend/classes/class_wbk_frontend_booking.php:120
+msgid "Tuesday"
+msgstr "Marti"
+
+#: backend/classes/class_wbk_backend_services.php:157
+#: backend/classes/class_wbk_backend_services.php:270
+#: common/class_wbk_business_hours.php:409
+#: common/class_wbk_date_time_utils.php:123
+#: common/class_wbk_date_time_utils.php:236
+#: frontend/classes/class_wbk_frontend_booking.php:121
+msgid "Wednesday"
+msgstr "Miercuri"
+
+#: backend/classes/class_wbk_backend_services.php:160
+#: backend/classes/class_wbk_backend_services.php:273
+#: common/class_wbk_business_hours.php:412
+#: common/class_wbk_date_time_utils.php:126
+#: common/class_wbk_date_time_utils.php:239
+#: frontend/classes/class_wbk_frontend_booking.php:122
+msgid "Thursday"
+msgstr "Joi"
+
+#: backend/classes/class_wbk_backend_services.php:163
+#: backend/classes/class_wbk_backend_services.php:276
+#: common/class_wbk_business_hours.php:415
+#: common/class_wbk_date_time_utils.php:129
+#: common/class_wbk_date_time_utils.php:242
+#: frontend/classes/class_wbk_frontend_booking.php:123
+msgid "Friday"
+msgstr "Vineri"
+
+#: backend/classes/class_wbk_backend_services.php:166
+#: backend/classes/class_wbk_backend_services.php:279
+#: common/class_wbk_business_hours.php:418
+#: common/class_wbk_date_time_utils.php:132
+#: common/class_wbk_date_time_utils.php:245
+#: frontend/classes/class_wbk_frontend_booking.php:124
+msgid "Saturday"
+msgstr "Sambata"
+
+#: backend/classes/class_wbk_backend_services.php:448
+#: backend/classes/class_wbk_backend_services.php:451
+#: backend/classes/class_wbk_backend_services.php:454
+#: backend/classes/class_wbk_backend_services.php:604
+#: backend/classes/class_wbk_backend_services.php:605
+#: backend/classes/class_wbk_backend_services.php:606
+#: backend/templates/tpl_wbk_backend_services.php:163
+#: backend/templates/tpl_wbk_backend_services.php:166
+#: backend/templates/tpl_wbk_backend_services.php:169
+msgid "minutes"
+msgstr "minute"
+
+#: backend/templates/tpl_wbk_backend_options.php:8
+msgid "Settings"
+msgstr "Setari"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:11
+msgid "Time"
+msgstr "Timp"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:14
+#: backend/templates/tpl_wbk_backend_services.php:25
+#: backend/templates/tpl_wbk_backend_services.php:103
+#: common/class_wbk_ajax_controller.php:318
+msgid "Name"
+msgstr "Nume"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:16
+#: backend/templates/tpl_wbk_backend_services.php:32
+#: backend/templates/tpl_wbk_backend_services.php:109
+msgid "Email"
+msgstr "Email"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:18
+#: common/class_wbk_ajax_controller.php:324
+msgid "Phone"
+msgstr "Telefon"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:20
+msgid "Items count"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:26
+msgid "Custom data"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_schedule.php:28
+#: common/class_wbk_ajax_controller.php:327
+msgid "Comment"
+msgstr "Mai multe informatii despre intalnire"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:35
+msgid "Schedule"
+msgstr "Planificari"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:42
+msgid "Create at least one service. "
+msgstr "Trebuie sa adaugi cel putin un serviciu"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:45
+msgid "Click to display the service schedule:"
+msgstr "Click pentru afisarea programului pentru serviciu"
+
+#: backend/templates/tpl_wbk_backend_services.php:7
+msgid "Confirm action"
+msgstr "Confirma actiunea"
+
+#: backend/templates/tpl_wbk_backend_services.php:9
+msgid ""
+"These services will be permanently deleted and cannot be recovered. Continue?"
+msgstr "Aceste servicii vor fi sterse si nu mai pot fi recuperate. Continui?"
+
+#: backend/templates/tpl_wbk_backend_services.php:12
+#: backend/templates/tpl_wbk_backend_services.php:17
+msgid "Error"
+msgstr "Eroare"
+
+#: backend/templates/tpl_wbk_backend_services.php:14
+msgid "Unable to add the gap."
+msgstr "Nu se poate adauga intervalul"
+
+#: backend/templates/tpl_wbk_backend_services.php:19
+msgid "Unable to set the gap."
+msgstr "Nu se poate seta intervalul"
+
+#: backend/templates/tpl_wbk_backend_services.php:29
+#: backend/templates/tpl_wbk_backend_services.php:106
+msgid "Description"
+msgstr "Descriere"
+
+#: backend/templates/tpl_wbk_backend_services.php:35
+msgid "Maximum booking count per time slot"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:38
+msgid "Duration (in minutes)"
+msgstr "Durata (in minute)"
+
+#: backend/templates/tpl_wbk_backend_services.php:40
+msgid "Gap (in minutes)"
+msgstr "Interval"
+
+#: backend/templates/tpl_wbk_backend_services.php:42
+#: backend/templates/tpl_wbk_backend_services.php:118
+msgid "Step"
+msgstr "Pas"
+
+#: backend/templates/tpl_wbk_backend_services.php:44
+msgid "Available to users"
+msgstr "Disponibil utilizatorilor"
+
+#: backend/templates/tpl_wbk_backend_services.php:51
+msgid " (has access)"
+msgstr " (au acces)"
+
+#: backend/templates/tpl_wbk_backend_services.php:67
+msgid "Select form"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:70
+msgid "default form"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:92
+msgid "Services"
+msgstr "Servicii"
+
+#: backend/templates/tpl_wbk_backend_services.php:112
+msgid "Duration "
+msgstr "Durata"
+
+#: backend/templates/tpl_wbk_backend_services.php:115
+msgid "Gap"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:121
+msgid "Items"
+msgstr ""
+
+#: backend/templates/tpl_wbk_backend_services.php:124
+msgid "Business hours"
+msgstr "Ore de lucru"
+
+#: backend/templates/tpl_wbk_backend_services.php:127
+msgid "Users"
+msgstr "Utilizatori"
+
+#: backend/templates/tpl_wbk_backend_services.php:215
+msgid "Delete service"
+msgstr "Sterge serviciu"
+
+#: common/class_wbk_ajax_controller.php:64 webba-booking.php:77
+msgid "Suitable hours"
+msgstr "Ore potrivite"
+
+#: common/class_wbk_ajax_controller.php:80
+#: common/class_wbk_ajax_controller.php:94
+msgid "from"
+msgstr "de la"
+
+#: common/class_wbk_ajax_controller.php:107
+msgid "Search time slots"
+msgstr "Ferestre de timp disponibile"
+
+#: common/class_wbk_ajax_controller.php:228
+msgid "Show more"
+msgstr "Arata mai mult"
+
+#: common/class_wbk_ajax_controller.php:234
+#: common/class_wbk_ajax_controller.php:238
+msgid ""
+"Unfortunately we were unable to meet your search criteria. Please change the "
+"criteria and try again."
+msgstr "Din pacate nu este disponibila perioada de timp aleasa."
+
+#: common/class_wbk_ajax_controller.php:298 webba-booking.php:79
+msgid "Fill in a form"
+msgstr "Completeaza formularul"
+
+#: common/class_wbk_ajax_controller.php:321
+msgid "E-mail"
+msgstr "Email"
+
+#: common/class_wbk_ajax_controller.php:334
+msgid "Book"
+msgstr "Programeaza"
+
+#: common/class_wbk_appointment.php:92
+msgid "incorrect service"
+msgstr "serviciu incorect"
+
+#: common/class_wbk_appointment.php:107 common/class_wbk_service.php:34
+msgid "incorrect email"
+msgstr "email incorect"
+
+#: common/class_wbk_appointment.php:124 common/class_wbk_service.php:51
+#: common/class_wbk_service.php:96
+msgid "incorrect duration"
+msgstr "durata incorecta"
+
+#: common/class_wbk_appointment.php:139 common/class_wbk_service.php:81
+msgid "incorrect quantity"
+msgstr ""
+
+#: common/class_wbk_appointment.php:154
+msgid "incorrect time"
+msgstr "timp incorect"
+
+#: common/class_wbk_appointment.php:170
+msgid "incorrect day"
+msgstr "zi incorecta"
+
+#: common/class_wbk_appointment.php:185
+msgid "incorrect attachment"
+msgstr "atasament incorect"
+
+#: common/class_wbk_appointment.php:202
+msgid "incorrect extra"
+msgstr "extra incorect"
+
+#: common/class_wbk_appointment.php:220
+msgid "incorrect phone"
+msgstr "nr. telefon incorect"
+
+#: common/class_wbk_entity.php:29 common/class_wbk_service_schedule.php:58
+msgid "incorrect id"
+msgstr "id incorect"
+
+#: common/class_wbk_entity.php:44
+msgid "incorrect name"
+msgstr "nume incorect"
+
+#: common/class_wbk_entity.php:60
+msgid "incorrect description"
+msgstr "descriere incorecta"
+
+#: common/class_wbk_service.php:66
+msgid "incorrect step"
+msgstr "pas incorect"
+
+#: common/class_wbk_service_schedule.php:424
+msgid "available"
+msgstr ""
+
+#: frontend/classes/class_wbk_frontend_booking.php:65 webba-booking.php:75
+msgid "Book an appointment on or after"
+msgstr "Programeaza intalnirea pe sau dupa"
+
+#: frontend/classes/class_wbk_frontend_booking.php:69
+msgid "Book appointment on"
+msgstr "Programeaza intalnirea pe"
+
+#: frontend/classes/class_wbk_frontend_booking.php:73 webba-booking.php:78
+msgid "Available time slots"
+msgstr "Ferestre de timp disponibile"
+
+#: frontend/classes/class_wbk_frontend_booking.php:89
+msgid "date..."
+msgstr "data..."
+
+#: frontend/classes/class_wbk_frontend_booking.php:90
+msgid "Thanks for booking appointment"
+msgstr "Va multumim pentru programare"
+
+#: frontend/classes/class_wbk_frontend_booking.php:92
+msgid "January"
+msgstr "Ianuarie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:93
+msgid "February"
+msgstr "Februarie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:94
+msgid "March"
+msgstr "Martie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:95
+msgid "April"
+msgstr "Aprilie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:96
+#: frontend/classes/class_wbk_frontend_booking.php:109
+msgid "May"
+msgstr "Mai"
+
+#: frontend/classes/class_wbk_frontend_booking.php:97
+msgid "June"
+msgstr "Iunie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:98
+msgid "July"
+msgstr "Iulie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:99
+msgid "August"
+msgstr "August"
+
+#: frontend/classes/class_wbk_frontend_booking.php:100
+msgid "September"
+msgstr "Septembrie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:101
+msgid "October"
+msgstr "Octombrie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:102
+msgid "November"
+msgstr "Noiembrie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:103
+msgid "December"
+msgstr "Decembrie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:105
+msgid "Jan"
+msgstr "Ian"
+
+#: frontend/classes/class_wbk_frontend_booking.php:106
+msgid "Feb"
+msgstr "Feb"
+
+#: frontend/classes/class_wbk_frontend_booking.php:107
+msgid "Mar"
+msgstr "Mar"
+
+#: frontend/classes/class_wbk_frontend_booking.php:108
+msgid "Apr"
+msgstr "Apr"
+
+#: frontend/classes/class_wbk_frontend_booking.php:110
+msgid "Jun"
+msgstr "Iun"
+
+#: frontend/classes/class_wbk_frontend_booking.php:111
+msgid "Jul"
+msgstr "Iul"
+
+#: frontend/classes/class_wbk_frontend_booking.php:112
+msgid "Aug"
+msgstr "Aug"
+
+#: frontend/classes/class_wbk_frontend_booking.php:113
+msgid "Sep"
+msgstr "Sep"
+
+#: frontend/classes/class_wbk_frontend_booking.php:114
+msgid "Oct"
+msgstr "Oct"
+
+#: frontend/classes/class_wbk_frontend_booking.php:115
+msgid "Nov"
+msgstr "Noi"
+
+#: frontend/classes/class_wbk_frontend_booking.php:116
+msgid "Dec"
+msgstr "Dec"
+
+#: frontend/classes/class_wbk_frontend_booking.php:126
+msgid "Sun"
+msgstr "Dum"
+
+#: frontend/classes/class_wbk_frontend_booking.php:127
+msgid "Mon"
+msgstr "Lun"
+
+#: frontend/classes/class_wbk_frontend_booking.php:128
+msgid "Tue"
+msgstr "Mar"
+
+#: frontend/classes/class_wbk_frontend_booking.php:129
+msgid "Wed"
+msgstr "Mie"
+
+#: frontend/classes/class_wbk_frontend_booking.php:130
+msgid "Thu"
+msgstr "Joi"
+
+#: frontend/classes/class_wbk_frontend_booking.php:131
+msgid "Fri"
+msgstr "Vin"
+
+#: frontend/classes/class_wbk_frontend_booking.php:132
+msgid "Sat"
+msgstr "Sam"
+
+#: frontend/classes/class_wbk_frontend_booking.php:134
+msgid "Today"
+msgstr "Astazi"
+
+#: frontend/classes/class_wbk_frontend_booking.php:135
+msgid "Clear"
+msgstr "Reseteaza"
+
+#: frontend/classes/class_wbk_frontend_booking.php:140
+msgid "Next month"
+msgstr "Luna viitoare"
+
+#: frontend/classes/class_wbk_frontend_booking.php:141
+msgid "Previous  month"
+msgstr "Luna anterioara"
+
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:23
+msgid "select..."
+msgstr "selecteaza..."
+
+#: webba-booking.php:65
+msgid "You have successfully booked an appointment"
+msgstr "Programarea a fost inregistrata."
+
+#: webba-booking.php:69
+msgid "New appointment booking"
+msgstr "Programare noua"
+
+#: webba-booking.php:74
+msgid "Select a service"
+msgstr "Alege un serviciu"
+
+#: webba-booking.php:76
+msgid "Book an appointment on"
+msgstr ""
+
+#: webba-booking.php:80
+msgid "Booking items count"
+msgstr ""
+
+#~ msgid "label to be displayed on frontend"
+#~ msgstr "eticheta de afisat in frontend"
+
+#~ msgid "Gap between appointments"
+#~ msgstr "Interval intre intalniri"
+
+#~ msgid "Find available times"
+#~ msgstr "Vezi ferestrele de timp disponibile"
+
+#~ msgid "Select date to start search with"
+#~ msgstr "Укажите дату, с которой начать поиск"
+
+#~ msgid "Send"
+#~ msgstr "Trimite"
+
+#~ msgid "of"
+#~ msgstr "din"
+
+#~ msgid "Step 1 of 4"
+#~ msgstr "Pasul 1 din 4"
+
+#~ msgid "Step 1 of 3"
+#~ msgstr "Pasul 1 din 3"
+
+#~ msgid "Fill in a form:"
+#~ msgstr "Completeaza formularul:"
+
+#~ msgid "Fill in a form to book an appointment on"
+#~ msgstr "Completeaza formularul pentru o programare pe"
+
+#~ msgid "Fill in a form to book an appointment on "
+#~ msgstr "Completeaza formularul pentru o programare pe"
+
+#~ msgid "Add WEBBA Booking form"
+#~ msgstr "Adauga WEBBA formular"
+
+#~ msgid "Allow customers to choose a service"
+#~ msgstr "Permite clientilor sa selecteze un serviciu"
+
+#~ msgid "WEBBA Booking form"
+#~ msgstr "WEBB Formular rezervari"
+
+#~ msgid "General options"
+#~ msgstr "optiuni generale"
+
+#~ msgid "Send email to a customer"
+#~ msgstr "Trimite email catre client"
+
+#~ msgid "Subject of email to a customer"
+#~ msgstr "Subiectul email-ului catre client"
+
+#~ msgid "Send email to an administrator"
+#~ msgstr "Trimite email catre administrator"
+
+#~ msgid "Subject of email to an administrator"
+#~ msgstr "Subiectul email-ului catre administrator"
+
+#~ msgid "Service select label"
+#~ msgstr "Serviciu selectare eticheta"
+
+#~ msgid "Options"
+#~ msgstr "Optiuni"
+
+#~ msgid "Open services page"
+#~ msgstr "Pagina serviciilor deschise"
+
+#~ msgid "leave empty to use Wordpress default value. "
+#~ msgstr "lasa gol pentru a utiliza setarile wordpress "

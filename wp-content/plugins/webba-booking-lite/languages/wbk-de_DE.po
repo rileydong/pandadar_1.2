@@ -1,0 +1,889 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wbk\n"
+"POT-Creation-Date: 2016-03-19 20:26+0200\n"
+"PO-Revision-Date: 2016-03-19 20:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: Webba Agency <support@webba-booking.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: backend/classes\n"
+
+#: backend/class_wbk_backend.php:55
+#: backend/classes/class_wbk_backend_services.php:32
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: backend/class_wbk_backend.php:56
+#: backend/classes/class_wbk_backend_schedule.php:43
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: backend/class_wbk_backend.php:57
+msgid "Add Webba Booking form"
+msgstr "Webba-Buchungsformular hinzufügen"
+
+#: backend/class_wbk_backend.php:92
+msgid "All services"
+msgstr "Alle Dienstleistungen"
+
+#: backend/class_wbk_backend.php:109
+msgid "Select service"
+msgstr "Dienstleistung auswählen"
+
+#: backend/class_wbk_backend.php:118
+msgid "Webba Booking form"
+msgstr "Webba-Buchungsformular"
+
+#: backend/classes/class_wbk_backend_options.php:72
+msgid "General"
+msgstr "Allgemein"
+
+#: backend/classes/class_wbk_backend_options.php:80
+msgid "Week starts on"
+msgstr "Woche startet am"
+
+#: backend/classes/class_wbk_backend_options.php:95
+msgid "Date format"
+msgstr "Datumsformat"
+
+#: backend/classes/class_wbk_backend_options.php:109
+msgid "Time format"
+msgstr "Zeitformat"
+
+#: backend/classes/class_wbk_backend_options.php:123
+msgid "Timezone"
+msgstr "Zeitzone"
+
+#: backend/classes/class_wbk_backend_options.php:137
+msgid "Phone number mask input"
+msgstr "Telefon Nummer Maske eingeben"
+
+#: backend/classes/class_wbk_backend_options.php:152
+msgid "Phone format"
+msgstr "Telefon-format"
+
+#: backend/classes/class_wbk_backend_options.php:167
+#: backend/classes/class_wbk_backend_options.php:175
+msgid "Holidays"
+msgstr "Ferientage"
+
+#: backend/classes/class_wbk_backend_options.php:189
+msgid "Email notifications"
+msgstr "E-Mail-Benachrichtigung"
+
+#: backend/classes/class_wbk_backend_options.php:195
+msgid "Send customer an email"
+msgstr "Sende dem Kunden eine Mail"
+
+#: backend/classes/class_wbk_backend_options.php:208
+msgid "Subject of an email to a customer"
+msgstr "Betreff des Kundenmails"
+
+#: backend/classes/class_wbk_backend_options.php:221
+msgid "Message to a customer"
+msgstr "Nachricht an Kunde"
+
+#: backend/classes/class_wbk_backend_options.php:235
+msgid "Send administrator an email"
+msgstr "Sende dem Admin eine Mail"
+
+#: backend/classes/class_wbk_backend_options.php:248
+msgid "Subject of an email to an administrator"
+msgstr "Betreff des Admin-Mails"
+
+#: backend/classes/class_wbk_backend_options.php:261
+msgid "Message to an administrator"
+msgstr "Nachricht an Administrator"
+
+#: backend/classes/class_wbk_backend_options.php:275
+msgid "From: name"
+msgstr "Von: Name"
+
+#: backend/classes/class_wbk_backend_options.php:289
+msgid "From: email"
+msgstr "Von: E-Mail"
+
+#: backend/classes/class_wbk_backend_options.php:303
+msgid "Appearance"
+msgstr "Design"
+
+#: backend/classes/class_wbk_backend_options.php:310
+msgid "Mode"
+msgstr "Modus"
+
+#: backend/classes/class_wbk_backend_options.php:323
+msgid "Select service label"
+msgstr "Dienstleistungs-Titel wählen"
+
+#: backend/classes/class_wbk_backend_options.php:336
+msgid "Select date label (extended mode)"
+msgstr "Datum frontend Markierung "
+
+#: backend/classes/class_wbk_backend_options.php:349
+msgid "Select date label (basic mode)"
+msgstr "Datum frontend Markierung "
+
+#: backend/classes/class_wbk_backend_options.php:362
+msgid "Select hours label"
+msgstr "Stunden frontend Markierung"
+
+#: backend/classes/class_wbk_backend_options.php:375
+msgid "Select time slots label"
+msgstr "Zeit Einträge frontend Markierung  "
+
+#: backend/classes/class_wbk_backend_options.php:388
+msgid "Booking form label"
+msgstr "Buchungs Formular frontend Markierung"
+
+#: backend/classes/class_wbk_backend_options.php:401
+msgid "Booking items count label"
+msgstr "Anzahl der gebuchten Sitzplätze frontend Markierung "
+
+#: backend/classes/class_wbk_backend_options.php:415
+msgid "Activation"
+msgstr "Aktivierung"
+
+#: backend/classes/class_wbk_backend_options.php:422
+msgid "Purchase Code"
+msgstr "Kauf-Code"
+
+#: backend/classes/class_wbk_backend_options.php:480
+#: backend/classes/class_wbk_backend_services.php:169
+#: backend/classes/class_wbk_backend_services.php:282
+#: common/class_wbk_business_hours.php:421
+#: common/class_wbk_date_time_utils.php:135
+#: common/class_wbk_date_time_utils.php:248
+#: frontend/classes/class_wbk_frontend_booking.php:118
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: backend/classes/class_wbk_backend_options.php:481
+#: backend/classes/class_wbk_backend_services.php:150
+#: backend/classes/class_wbk_backend_services.php:263
+#: common/class_wbk_business_hours.php:403
+#: common/class_wbk_business_hours.php:425
+#: common/class_wbk_date_time_utils.php:116
+#: common/class_wbk_date_time_utils.php:229
+#: frontend/classes/class_wbk_frontend_booking.php:119
+msgid "Monday"
+msgstr "Montag"
+
+#: backend/classes/class_wbk_backend_options.php:482
+msgid "Wordpress default"
+msgstr "Wordpress-Standard"
+
+#: backend/classes/class_wbk_backend_options.php:492
+msgid "Incorrect start of week"
+msgstr "Inkorrekter Start der Woche"
+
+#: backend/classes/class_wbk_backend_options.php:504
+msgid "Leave empty to use Wordpress Date Format. "
+msgstr "Leer lassen für Wordpress-Datumsformat"
+
+#: backend/classes/class_wbk_backend_options.php:513
+msgid "Date format updated"
+msgstr "Datumsformat aktualisiert"
+
+#: backend/classes/class_wbk_backend_options.php:528
+msgid "Leave empty to use Wordpress Time Format. "
+msgstr "Leer lassen für Wordpress-Zeitformat"
+
+#: backend/classes/class_wbk_backend_options.php:537
+msgid "Time format updated"
+msgstr "Zeitformat aktualisiert"
+
+#: backend/classes/class_wbk_backend_options.php:551
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: backend/classes/class_wbk_backend_options.php:552
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: backend/classes/class_wbk_backend_options.php:574
+msgid ""
+"a - Represents an alpha character (A-Z,a-z), 9 - Represents a numeric "
+"character (0-9), * - Represents an alphanumeric character (A-Z,a-z,0-9)"
+msgstr ""
+"A - für ein Alpha-Zeichen (AZ, az), 9 - Stellt eine numerische Zeichen (0-9) "
+"* - Stellt eine alphanumerische Zeichen (AZ, az, 0-9)"
+
+#: backend/classes/class_wbk_backend_options.php:628
+msgid "Check if you'd like to send customer an email"
+msgstr "Wählen wenn Sie dem Kunden eine Mail schicken wollen"
+
+#: backend/classes/class_wbk_backend_options.php:639
+#: backend/classes/class_wbk_backend_options.php:721
+msgid "Email status updated"
+msgstr "E-Mailstatus aktualisiert"
+
+#: backend/classes/class_wbk_backend_options.php:676
+msgid "Customer email subject is wrong"
+msgstr "Kunden-Betreff ist falsch"
+
+#: backend/classes/class_wbk_backend_options.php:696
+msgid "Administrator email subject is wrong"
+msgstr "Administrator-Betreff ist falsch"
+
+#: backend/classes/class_wbk_backend_options.php:710
+msgid "Check if you'd like to send administrator an email"
+msgstr "Wählen wenn dem Admin eine Mail geschickt werden soll"
+
+#: backend/classes/class_wbk_backend_options.php:757
+msgid "\"From: email\" is wrong"
+msgstr "\"Von: E-Mail\" ist falsch"
+
+#: backend/classes/class_wbk_backend_options.php:775
+msgid "\"From: name\" is wrong"
+msgstr "\"Von Name\" ist falsch"
+
+#: backend/classes/class_wbk_backend_options.php:786
+msgid "Extended"
+msgstr "Erweitert"
+
+#: backend/classes/class_wbk_backend_options.php:787
+msgid "Basic"
+msgstr "Basis"
+
+#: backend/classes/class_wbk_backend_options.php:803
+msgid "Service frontend label"
+msgstr "Dienst frontend Markierung "
+
+#: backend/classes/class_wbk_backend_options.php:818
+#: backend/classes/class_wbk_backend_options.php:832
+msgid "Date frontend label"
+msgstr "Datum frontend Markierung"
+
+#: backend/classes/class_wbk_backend_options.php:846
+msgid "Hours frontend label"
+msgstr "Stunden frontend Markierung "
+
+#: backend/classes/class_wbk_backend_options.php:860
+msgid "Time slots frontend label"
+msgstr "Zeit Einträge frontend Markierung"
+
+#: backend/classes/class_wbk_backend_options.php:874
+msgid "Booking form frontend label"
+msgstr "Buchungs Formular frontend Markierung"
+
+#: backend/classes/class_wbk_backend_options.php:888
+msgid "Booking items count frontend label"
+msgstr "Anzahl der gebuchten Sitzplätze frontend Markierung"
+
+#: backend/classes/class_wbk_backend_schedule.php:42
+msgid "Add appointment"
+msgstr "Termin hinzufügen"
+
+#: backend/classes/class_wbk_backend_schedule.php:44
+#: frontend/classes/class_wbk_frontend_booking.php:136
+msgid "Close"
+msgstr "Schliessen"
+
+#: backend/classes/class_wbk_backend_schedule.php:45
+msgid "Appointment"
+msgstr "Termin"
+
+#: backend/classes/class_wbk_backend_schedule.php:46
+#: backend/classes/class_wbk_backend_services.php:33
+msgid "Delete"
+msgstr "Löschen"
+
+#: backend/classes/class_wbk_backend_schedule.php:47
+msgid "Show next week"
+msgstr "Nächste Woche zeigen"
+
+#: backend/classes/class_wbk_backend_schedule.php:117
+#: backend/classes/class_wbk_backend_schedule.php:189
+msgid "open"
+msgstr "öffnen"
+
+#: backend/classes/class_wbk_backend_schedule.php:121
+#: backend/classes/class_wbk_backend_schedule.php:231
+msgid "close"
+msgstr "schliessen"
+
+#: backend/classes/class_wbk_backend_services.php:34
+#: backend/templates/tpl_wbk_backend_services.php:214
+msgid "Add service"
+msgstr "Dienstleistung hinzufügen"
+
+#: backend/classes/class_wbk_backend_services.php:35
+#: backend/templates/tpl_wbk_backend_services.php:216
+msgid "Edit service"
+msgstr "Dienstleistung bearbeiten"
+
+#: backend/classes/class_wbk_backend_services.php:36
+msgid "Save"
+msgstr "Speichern"
+
+#: backend/classes/class_wbk_backend_services.php:37
+#: backend/classes/class_wbk_backend_services.php:246
+#: common/class_wbk_date_time_utils.php:212
+msgid "Remove the second gap"
+msgstr "Zweiten Leerbereich entfernen"
+
+#: backend/classes/class_wbk_backend_services.php:38
+#: backend/classes/class_wbk_backend_services.php:252
+#: common/class_wbk_date_time_utils.php:218
+msgid "Add the second gap"
+msgstr "Zweiten Leerbereich hinzufügen"
+
+#: backend/classes/class_wbk_backend_services.php:153
+#: backend/classes/class_wbk_backend_services.php:266
+#: common/class_wbk_business_hours.php:406
+#: common/class_wbk_date_time_utils.php:119
+#: common/class_wbk_date_time_utils.php:232
+#: frontend/classes/class_wbk_frontend_booking.php:120
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: backend/classes/class_wbk_backend_services.php:157
+#: backend/classes/class_wbk_backend_services.php:270
+#: common/class_wbk_business_hours.php:409
+#: common/class_wbk_date_time_utils.php:123
+#: common/class_wbk_date_time_utils.php:236
+#: frontend/classes/class_wbk_frontend_booking.php:121
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: backend/classes/class_wbk_backend_services.php:160
+#: backend/classes/class_wbk_backend_services.php:273
+#: common/class_wbk_business_hours.php:412
+#: common/class_wbk_date_time_utils.php:126
+#: common/class_wbk_date_time_utils.php:239
+#: frontend/classes/class_wbk_frontend_booking.php:122
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: backend/classes/class_wbk_backend_services.php:163
+#: backend/classes/class_wbk_backend_services.php:276
+#: common/class_wbk_business_hours.php:415
+#: common/class_wbk_date_time_utils.php:129
+#: common/class_wbk_date_time_utils.php:242
+#: frontend/classes/class_wbk_frontend_booking.php:123
+msgid "Friday"
+msgstr "Freitag"
+
+#: backend/classes/class_wbk_backend_services.php:166
+#: backend/classes/class_wbk_backend_services.php:279
+#: common/class_wbk_business_hours.php:418
+#: common/class_wbk_date_time_utils.php:132
+#: common/class_wbk_date_time_utils.php:245
+#: frontend/classes/class_wbk_frontend_booking.php:124
+msgid "Saturday"
+msgstr "Samstag"
+
+#: backend/classes/class_wbk_backend_services.php:448
+#: backend/classes/class_wbk_backend_services.php:451
+#: backend/classes/class_wbk_backend_services.php:454
+#: backend/classes/class_wbk_backend_services.php:604
+#: backend/classes/class_wbk_backend_services.php:605
+#: backend/classes/class_wbk_backend_services.php:606
+#: backend/templates/tpl_wbk_backend_services.php:163
+#: backend/templates/tpl_wbk_backend_services.php:166
+#: backend/templates/tpl_wbk_backend_services.php:169
+msgid "minutes"
+msgstr "Minuten"
+
+#: backend/templates/tpl_wbk_backend_options.php:8
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:11
+msgid "Time"
+msgstr "Zeit"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:14
+#: backend/templates/tpl_wbk_backend_services.php:25
+#: backend/templates/tpl_wbk_backend_services.php:103
+#: common/class_wbk_ajax_controller.php:318
+msgid "Name"
+msgstr "Name"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:16
+#: backend/templates/tpl_wbk_backend_services.php:32
+#: backend/templates/tpl_wbk_backend_services.php:109
+msgid "Email"
+msgstr "E-Mail"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:18
+#: common/class_wbk_ajax_controller.php:324
+msgid "Phone"
+msgstr "Telefon"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:20
+msgid "Items count"
+msgstr "Anzahl der Sitzplätze"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:26
+msgid "Custom data"
+msgstr "Benutzerdefinierte Daten"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:28
+#: common/class_wbk_ajax_controller.php:327
+msgid "Comment"
+msgstr "Kommentar"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:35
+msgid "Schedule"
+msgstr "Zeitplan"
+
+#: backend/templates/tpl_wbk_backend_schedule.php:42
+msgid "Create at least one service. "
+msgstr "Mindestens eine Dienstleistung erstellen."
+
+#: backend/templates/tpl_wbk_backend_schedule.php:45
+msgid "Click to display the service schedule:"
+msgstr "Klicken, um den Zeitplan anzuzeigen:"
+
+#: backend/templates/tpl_wbk_backend_services.php:7
+msgid "Confirm action"
+msgstr "Aktion bestätigen"
+
+#: backend/templates/tpl_wbk_backend_services.php:9
+msgid ""
+"These services will be permanently deleted and cannot be recovered. Continue?"
+msgstr ""
+"Diese Dienstleistungen werden definitiv entfernt und können nicht "
+"zurückgeholt werden. Fortfahren?"
+
+#: backend/templates/tpl_wbk_backend_services.php:12
+#: backend/templates/tpl_wbk_backend_services.php:17
+msgid "Error"
+msgstr "Fehler"
+
+#: backend/templates/tpl_wbk_backend_services.php:14
+msgid "Unable to add the gap."
+msgstr "Kann Leerbereich nicht hinzufügen."
+
+#: backend/templates/tpl_wbk_backend_services.php:19
+msgid "Unable to set the gap."
+msgstr "Kann Leerbereich nicht setzen."
+
+#: backend/templates/tpl_wbk_backend_services.php:29
+#: backend/templates/tpl_wbk_backend_services.php:106
+msgid "Description"
+msgstr "Beschreibung"
+
+#: backend/templates/tpl_wbk_backend_services.php:35
+msgid "Maximum booking count per time slot"
+msgstr "Die höchste Anzahl von Sitzplätzen für eine Zeitraum"
+
+#: backend/templates/tpl_wbk_backend_services.php:38
+msgid "Duration (in minutes)"
+msgstr "Dauer (in Minuten)"
+
+#: backend/templates/tpl_wbk_backend_services.php:40
+msgid "Gap (in minutes)"
+msgstr "Leerbereich (in Minuten)"
+
+#: backend/templates/tpl_wbk_backend_services.php:42
+#: backend/templates/tpl_wbk_backend_services.php:118
+msgid "Step"
+msgstr "Schritt"
+
+#: backend/templates/tpl_wbk_backend_services.php:44
+msgid "Available to users"
+msgstr "Verfügbar für Kunden"
+
+#: backend/templates/tpl_wbk_backend_services.php:51
+msgid " (has access)"
+msgstr " (hat Zugriff)"
+
+#: backend/templates/tpl_wbk_backend_services.php:67
+msgid "Select form"
+msgstr "Formular auswählen"
+
+#: backend/templates/tpl_wbk_backend_services.php:70
+msgid "default form"
+msgstr "Default"
+
+#: backend/templates/tpl_wbk_backend_services.php:92
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: backend/templates/tpl_wbk_backend_services.php:112
+msgid "Duration "
+msgstr "Dauer"
+
+#: backend/templates/tpl_wbk_backend_services.php:115
+msgid "Gap"
+msgstr "Abstand "
+
+#: backend/templates/tpl_wbk_backend_services.php:121
+msgid "Items"
+msgstr "Sitzplätze"
+
+#: backend/templates/tpl_wbk_backend_services.php:124
+msgid "Business hours"
+msgstr "Geschäftszeiten"
+
+#: backend/templates/tpl_wbk_backend_services.php:127
+msgid "Users"
+msgstr "Kunden"
+
+#: backend/templates/tpl_wbk_backend_services.php:215
+msgid "Delete service"
+msgstr "Dienstleistung löschen"
+
+#: common/class_wbk_ajax_controller.php:64 webba-booking.php:77
+msgid "Suitable hours"
+msgstr "Zeitfenster wählen"
+
+#: common/class_wbk_ajax_controller.php:80
+#: common/class_wbk_ajax_controller.php:94
+msgid "from"
+msgstr "von"
+
+#: common/class_wbk_ajax_controller.php:107
+msgid "Search time slots"
+msgstr "Suche freie Zeiten"
+
+#: common/class_wbk_ajax_controller.php:228
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+#: common/class_wbk_ajax_controller.php:234
+#: common/class_wbk_ajax_controller.php:238
+msgid ""
+"Unfortunately we were unable to meet your search criteria. Please change the "
+"criteria and try again."
+msgstr ""
+"Wir konnten leider keinen passenden Eintrag finden. Bitte ändern Sie die "
+"Suchkriterien und versuchen Sie es erneut."
+
+#: common/class_wbk_ajax_controller.php:298 webba-booking.php:79
+msgid "Fill in a form"
+msgstr "Formular ausfüllen"
+
+#: common/class_wbk_ajax_controller.php:321
+msgid "E-mail"
+msgstr "E-mail"
+
+#: common/class_wbk_ajax_controller.php:334
+msgid "Book"
+msgstr "Buchen"
+
+#: common/class_wbk_appointment.php:92
+msgid "incorrect service"
+msgstr "Ungültige Dienstleistung"
+
+#: common/class_wbk_appointment.php:107 common/class_wbk_service.php:34
+msgid "incorrect email"
+msgstr "Ungültige E-Mail"
+
+#: common/class_wbk_appointment.php:124 common/class_wbk_service.php:51
+#: common/class_wbk_service.php:96
+msgid "incorrect duration"
+msgstr "Ungültige Dauer"
+
+#: common/class_wbk_appointment.php:139 common/class_wbk_service.php:81
+msgid "incorrect quantity"
+msgstr "falsche Anzahl"
+
+#: common/class_wbk_appointment.php:154
+msgid "incorrect time"
+msgstr "Ungültige Zeit"
+
+#: common/class_wbk_appointment.php:170
+msgid "incorrect day"
+msgstr "Ungültiger Tag"
+
+#: common/class_wbk_appointment.php:185
+msgid "incorrect attachment"
+msgstr "Ungültiger Anhang"
+
+#: common/class_wbk_appointment.php:202
+msgid "incorrect extra"
+msgstr "Ungültiges Extra"
+
+#: common/class_wbk_appointment.php:220
+msgid "incorrect phone"
+msgstr "Ungültiges Telefon"
+
+#: common/class_wbk_entity.php:29 common/class_wbk_service_schedule.php:58
+msgid "incorrect id"
+msgstr "Ungültige ID"
+
+#: common/class_wbk_entity.php:44
+msgid "incorrect name"
+msgstr "Ungültiger Name"
+
+#: common/class_wbk_entity.php:60
+msgid "incorrect description"
+msgstr "Ungültige Beschreibung"
+
+#: common/class_wbk_service.php:66
+msgid "incorrect step"
+msgstr "Ungültiger Schritt"
+
+#: common/class_wbk_service_schedule.php:424
+msgid "available"
+msgstr "verfügbar"
+
+#: frontend/classes/class_wbk_frontend_booking.php:65 webba-booking.php:75
+msgid "Book an appointment on or after"
+msgstr "Buchen Sie einen Termin am oder nach dem"
+
+#: frontend/classes/class_wbk_frontend_booking.php:69
+msgid "Book appointment on"
+msgstr "Termin am"
+
+#: frontend/classes/class_wbk_frontend_booking.php:73 webba-booking.php:78
+msgid "Available time slots"
+msgstr "Freie Zeitfenster"
+
+#: frontend/classes/class_wbk_frontend_booking.php:89
+msgid "date..."
+msgstr "Datum...."
+
+#: frontend/classes/class_wbk_frontend_booking.php:90
+msgid "Thanks for booking appointment"
+msgstr "Vielen danke für Ihre Buchung"
+
+#: frontend/classes/class_wbk_frontend_booking.php:92
+msgid "January"
+msgstr "Januar"
+
+#: frontend/classes/class_wbk_frontend_booking.php:93
+msgid "February"
+msgstr "Februar"
+
+#: frontend/classes/class_wbk_frontend_booking.php:94
+msgid "March"
+msgstr "März"
+
+#: frontend/classes/class_wbk_frontend_booking.php:95
+msgid "April"
+msgstr "April"
+
+#: frontend/classes/class_wbk_frontend_booking.php:96
+#: frontend/classes/class_wbk_frontend_booking.php:109
+msgid "May"
+msgstr "Mai"
+
+#: frontend/classes/class_wbk_frontend_booking.php:97
+msgid "June"
+msgstr "Juni"
+
+#: frontend/classes/class_wbk_frontend_booking.php:98
+msgid "July"
+msgstr "Juli"
+
+#: frontend/classes/class_wbk_frontend_booking.php:99
+msgid "August"
+msgstr "August"
+
+#: frontend/classes/class_wbk_frontend_booking.php:100
+msgid "September"
+msgstr "September"
+
+#: frontend/classes/class_wbk_frontend_booking.php:101
+msgid "October"
+msgstr "Oktober"
+
+#: frontend/classes/class_wbk_frontend_booking.php:102
+msgid "November"
+msgstr "November"
+
+#: frontend/classes/class_wbk_frontend_booking.php:103
+msgid "December"
+msgstr "Dezember"
+
+#: frontend/classes/class_wbk_frontend_booking.php:105
+msgid "Jan"
+msgstr "Jan"
+
+#: frontend/classes/class_wbk_frontend_booking.php:106
+msgid "Feb"
+msgstr "Feb"
+
+#: frontend/classes/class_wbk_frontend_booking.php:107
+msgid "Mar"
+msgstr "Mär"
+
+#: frontend/classes/class_wbk_frontend_booking.php:108
+msgid "Apr"
+msgstr "Apr"
+
+#: frontend/classes/class_wbk_frontend_booking.php:110
+msgid "Jun"
+msgstr "Jun"
+
+#: frontend/classes/class_wbk_frontend_booking.php:111
+msgid "Jul"
+msgstr "Jul"
+
+#: frontend/classes/class_wbk_frontend_booking.php:112
+msgid "Aug"
+msgstr "Aug"
+
+#: frontend/classes/class_wbk_frontend_booking.php:113
+msgid "Sep"
+msgstr "Sep"
+
+#: frontend/classes/class_wbk_frontend_booking.php:114
+msgid "Oct"
+msgstr "Okt"
+
+#: frontend/classes/class_wbk_frontend_booking.php:115
+msgid "Nov"
+msgstr "Nov"
+
+#: frontend/classes/class_wbk_frontend_booking.php:116
+msgid "Dec"
+msgstr "Dez"
+
+#: frontend/classes/class_wbk_frontend_booking.php:126
+msgid "Sun"
+msgstr "Son"
+
+#: frontend/classes/class_wbk_frontend_booking.php:127
+msgid "Mon"
+msgstr "Mo"
+
+#: frontend/classes/class_wbk_frontend_booking.php:128
+msgid "Tue"
+msgstr "Di"
+
+#: frontend/classes/class_wbk_frontend_booking.php:129
+msgid "Wed"
+msgstr "Mit"
+
+#: frontend/classes/class_wbk_frontend_booking.php:130
+msgid "Thu"
+msgstr "Don"
+
+#: frontend/classes/class_wbk_frontend_booking.php:131
+msgid "Fri"
+msgstr "Fr"
+
+#: frontend/classes/class_wbk_frontend_booking.php:132
+msgid "Sat"
+msgstr "Sam"
+
+#: frontend/classes/class_wbk_frontend_booking.php:134
+msgid "Today"
+msgstr "Heute"
+
+#: frontend/classes/class_wbk_frontend_booking.php:135
+msgid "Clear"
+msgstr "löschen"
+
+#: frontend/classes/class_wbk_frontend_booking.php:140
+msgid "Next month"
+msgstr "Nächster Monat"
+
+#: frontend/classes/class_wbk_frontend_booking.php:141
+msgid "Previous  month"
+msgstr "Vorheriger Monat"
+
+#: frontend/templates/tpl_wbk_frontend_booking_ui.php:23
+msgid "select..."
+msgstr "auswählen...."
+
+#: webba-booking.php:65
+msgid "You have successfully booked an appointment"
+msgstr "Sie haben erfolgreich einen Termin gebucht (angefragt)"
+
+#: webba-booking.php:69
+msgid "New appointment booking"
+msgstr "Neue Terminanfrage"
+
+#: webba-booking.php:74
+msgid "Select a service"
+msgstr "Eine Dienstleistung auswählen"
+
+#: webba-booking.php:76
+msgid "Book an appointment on"
+msgstr "Eine Treffen buchen "
+
+#: webba-booking.php:80
+msgid "Booking items count"
+msgstr "Anzahl der gebuchten Sitzplätze"
+
+#~ msgid "label to be displayed on frontend"
+#~ msgstr "Titel zur Anzeige im Frontend"
+
+#~ msgid "Gap between appointments"
+#~ msgstr "Leerbereich zwischen Terminen"
+
+#~ msgid "Select suitable hours"
+#~ msgstr "Wählen Sie passende Stunden"
+
+#~ msgid "Book appointent on or after"
+#~ msgstr "Buche Termin an diesem Tag..."
+
+#~ msgid "Select time"
+#~ msgstr "Zeit auswählen"
+
+#~ msgid "Find available times"
+#~ msgstr "Finde verfügbare Zeiten"
+
+#~ msgid "Select date to start search with"
+#~ msgstr "Datum zum Starten auswählen"
+
+#~ msgid "Submit"
+#~ msgstr "Absenden"
+
+#~ msgid "of"
+#~ msgstr "von"
+
+#~ msgid "Step 1 of 4"
+#~ msgstr "Schritt 1 von 4"
+
+#~ msgid "Step 1 of 3"
+#~ msgstr "Schritt 1 von 3"
+
+#~ msgid "Fill in a form:"
+#~ msgstr "Formular ausfüllen:"
+
+#~ msgid "Fill in a form to book an appointment on"
+#~ msgstr "Formular ausfüllen, um Termin zu buchen am"
+
+#~ msgid "Fill in a form to book an appointment on "
+#~ msgstr "Formular ausfüllen, um Termin zu buchen am"
+
+#~ msgid "Add WEBBA Booking form"
+#~ msgstr "Webba Buchungsformular hinzufügen"
+
+#~ msgid "Allow customers to choose a service"
+#~ msgstr "Kunden erlauben, eine Dienstleistung zu wählen"
+
+#~ msgid "WEBBA Booking form"
+#~ msgstr "Webba Buchungsformular"
+
+#~ msgid "General options"
+#~ msgstr "Allgemeine Optionen"
+
+#~ msgid "Send email to a customer"
+#~ msgstr "Dem Kunden eine E-Mail senden"
+
+#~ msgid "Subject of email to a customer"
+#~ msgstr "Betreff des Kunden-Mails"
+
+#~ msgid "Send email to an administrator"
+#~ msgstr "Dem Admin eine E-Mail senden"
+
+#~ msgid "Subject of email to an administrator"
+#~ msgstr "Betreff des Admin-Mails"
+
+#~ msgid "Service select label"
+#~ msgstr "Dienstleistungs-Titel wählen"
+
+#~ msgid "Options"
+#~ msgstr "Optionen"
+
+#~ msgid "Open services page"
+#~ msgstr "Dienstleistungsseite öffnen"
+
+#~ msgid "leave empty to use Wordpress default value. "
+#~ msgstr "leer lassen, um Wordpress-Standards zu benutzen"
